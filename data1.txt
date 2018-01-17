@@ -1,0 +1,51 @@
+Data Science Generalist
+SAN FRANCISCO / REMOTEDEV TEAMFULL-TIME
+APPLY FOR THIS JOB
+We're looking for a Data Scientist/Machine Learning Engineer with a wide range of competencies. Rainforest is changing the way people do QA and data is at the heart of how we do that. From crowd management and fraud detection to data visualization and automation research, there are myriad opportunities to use your creativity and technical skills.
+
+We are looking for someone who learns quickly and is a great communicator. Since we are a remote, distributed development team, decent writing skills and(over)communication is important to us. You can be based anywhere in the world (including San Francisco, where our HQ is located).
+
+We regularly send our data scientists to conferences, both to speak and just learn (e.g. last year we went to NIPS and KDD, this year to Europython and a couple of PyDatas). You can read about some of our work on predicting test run durations and how Kaggle can be useful in the real world. And hear some of our team members speak on the topic of Women, Company Culture, and Remote Teams here.
+What you’ll do
+Experiment with the latest algorithms in computer vision, reinforcement learning and various supervised learning problems
+Design, develop, and own ML products from brainstorming to speccing, implementation and maintenance
+Research visual understanding of images, including classification, semantic segmentation, and OCR.  Develop new computer-vision based products with humans-in-the-loop
+Ship improvements to existing products daily (we practice fast iterations and CI)
+Work on fraud detection in crowdsourcing tasks
+Dive into our tester management algorithms and look for ways you can improve them
+Experiment with NLP to interpret our natural-language test cases
+Develop a deep understanding of Rainforest products and empathy for our customers
+Use your SQL and visualization skills to analyze and answer questions about our product and the way people use it
+What we’re looking for
+Knowledge of common data science concepts: different kinds of learning algorithms, ability to validate assumptions in a principled way and to discover correlations and to come up with a defensible experimental design to validate a hypothesis
+Knowledge of Python including the scientific stack (numpy, scipy, matplotlib, pandas, scikit-learn etc.).
+TensorFlow/Keras (though if you're already playing with PyTorch we'd gladly learn from you instead!)
+Enough SQL to efficiently get the data you need from a relational DB
+Basic knowledge of how the web works: HTTP, web servers, databases. Ability to build a simple CRUD app.
+Comfort in using the Unix command line and git
+Curiosity and motivation to think outside the box. When a colleague asks a data-related question, you're the type to try and understand what their underlying problem is and come up with a suitable solution (whether or not it can be solved with data).
+Someone who stays up-to-date with the latest research in ML/AI, can chat about what they think the next breakthrough will be, and can point to a recent paper that they enjoyed reading
+Bonus Points For:
+First-hand experience with designing, building and shipping Deep Learning-based models to production
+How we’ll reward you (SF)
+Competitive compensation and stock options
+100% Medical, dental, and vision insurance covered (50% for dependents)
+Daily catered lunch and snacks
+Subsidized commuter benefits
+Voluntary 401 k program
+Generous vacation time
+Professional development, in-office career coaching, and conference attendance
+Dog friendly offices
+Whatever desk setup you need to get your job done
+Weekly team activities like happy hours, in-office yoga, and much more
+How we’ll reward you (Remote)
+Flexible, remote work options
+Generous vacation time
+Competitive compensation and stock options
+Voluntary 401 k program (US only)
+100% Medical, dental, and vision insurance covered (US only)
+Professional development, career coaching, and conference attendance
+3x per year onsites- we’ll fly you into our beautiful San Francisco office to spend quality time with your teammates!
+OUR COMMITMENT TO DIVERSITY AND INCLUSION
+
+At Rainforest QA we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.
